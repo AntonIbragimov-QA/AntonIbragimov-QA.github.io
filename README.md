@@ -1,2 +1,2 @@
-Anton_Ibragimov.github.io
+AntonIbragimov-QA.github.io
 Адаптивная сайт - визитка на HTML+CSS

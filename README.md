@@ -1,2 +1,2 @@
 # Business-card-site
-Сайт визитка на HTML+CSS
+Адаптивная сайт - визитка на HTML+CSS
